@@ -12,4 +12,6 @@ The algorithm is implemented in C.
 
 ## Radix Sort
 
-I think this does something too, cannot be bothered to read it.
+The algorithm avoids comparison by creating and distributing elements into buckets according to their radix.
+
+It is also implemented in C.
